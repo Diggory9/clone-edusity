@@ -12,3 +12,6 @@ a{
     line-height: 1;
     cursor: pointer;
 }
+.container{
+    padding: 0 10%;
+}
