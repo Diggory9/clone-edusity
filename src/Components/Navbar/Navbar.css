@@ -20,20 +20,7 @@ nav ul li{
     font-size: 16px;
     list-style: none;
 }
-.btn{
-    background: #FFF;
-    color: #212121;
-    padding: 14px 25px;
-    font-size: 16px;
-    border-radius: 30px;
-    cursor: pointer;
-    border: 0;
-    outline: 0;
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-}
-.btn img {
-    width: 20px;
-    margin-left: 10px;
+.dark-nav{
+    background: #212EA0;
+    transition: 0.5s;
 }
