@@ -20,7 +20,7 @@ const App = () => {
         <div className='container'>
           <Title subTitle='Our program' title='What we Offer' />
           <Programs/>
-          <About setPlaystate={setPlayState}/>
+          <About setPlayState={setPlayState}/>
           <Title subTitle='Gallery' title='Campus photos' />
           <Campus/>
           <Title subTitle='TESTIMONIALS' title='What Student Says' />
